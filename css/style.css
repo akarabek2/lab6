@@ -1,0 +1,71 @@
+td, th {
+	border: 3px solid #FF6347; 
+  color: #FFD700; 
+  font-style: italic;
+}
+
+th{
+  font-size: larger;
+}
+
+h1{
+  font-family: 'Arial', sans-serif; 
+  font-style: italic;
+  text-align: center;
+  color: #EE82EE;
+}
+
+tr{
+  font-family: 'Courier New', monospace; 
+  font-size:30px;
+}
+
+.planet_img{
+  width:200px;
+  height:200px;
+}
+
+#planets{
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.td_title{
+  text-align: center;
+}
+
+body{
+  background-color: #7FFFD4;
+}
+
+table{
+  border-collapse:collapse;
+  text-align: center;
+}
+
+td:not(.td_title){
+  font-family: 'Times New Roman', serif; 
+  font-size:15px;
+  font-style:normal;
+}
+
+th:nth-child(1), td:nth-child(1){
+  background-color: #FF4500; 
+}
+
+th:nth-child(2), td:nth-child(2){
+  background-color: #FFDAB9; 
+}
+
+th:nth-child(3), td:nth-child(3){
+  background-color: #DAA520;
+}
+
+th:nth-child(4), td:nth-child(4){
+  background-color: #7CFC00; 
+}
+
+th:nth-child(5), td:nth-child(5){
+  background-color: #E9967A; 
+}
+
