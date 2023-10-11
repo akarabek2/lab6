@@ -1,71 +1,70 @@
 td, th {
-	border: 3px solid #FF6347; 
-  color: #FFD700; 
-  font-style: italic;
+	border: 3px solid #4682B4; 
+    color: #20B2AA; 
+    font-style: italic;
 }
 
 th{
-  font-size: larger;
+    font-size: larger;
 }
 
 h1{
-  font-family: 'Arial', sans-serif; 
-  font-style: italic;
-  text-align: center;
-  color: #EE82EE;
+    font-family: 'Verdana', sans-serif; 
+    font-style: italic;
+    text-align: center;
+    color: #ADD8E6; 
 }
 
 tr{
-  font-family: 'Courier New', monospace; 
-  font-size:30px;
+    font-family: 'Trebuchet MS', sans-serif; 
+    font-size:30px;
 }
 
 .planet_img{
-  width:200px;
-  height:200px;
+    width:200px;
+    height:200px;
 }
 
 #planets{
-  margin-left:auto;
-  margin-right:auto;
+    margin-left:auto;
+    margin-right:auto;
 }
 
 .td_title{
-  text-align: center;
+    text-align: center;
 }
 
 body{
-  background-color: #7FFFD4;
+    background-color: #B0E0E6; 
 }
 
 table{
-  border-collapse:collapse;
-  text-align: center;
+    border-collapse:collapse;
+    text-align: center;
 }
 
 td:not(.td_title){
-  font-family: 'Times New Roman', serif; 
-  font-size:15px;
-  font-style:normal;
+    font-family: 'Georgia', serif; 
+    font-size:15px;
+    font-style:normal;
 }
 
 th:nth-child(1), td:nth-child(1){
-  background-color: #FF4500; 
+    background-color: #87CEEB;
 }
 
 th:nth-child(2), td:nth-child(2){
-  background-color: #FFDAB9; 
+    background-color: #6495ED;
 }
 
 th:nth-child(3), td:nth-child(3){
-  background-color: #DAA520;
+    background-color: #1E90FF;
 }
 
 th:nth-child(4), td:nth-child(4){
-  background-color: #7CFC00; 
+    background-color: #5F9EA0; 
 }
 
 th:nth-child(5), td:nth-child(5){
-  background-color: #E9967A; 
+    background-color: #00CED1; 
 }
-
